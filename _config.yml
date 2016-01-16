@@ -14,7 +14,7 @@ title: Max Halldén
 email: max.hallden@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal page of Max Halldén, software developer and Linux nerd.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/my-webpage" # the subpath of your site, e.g. /blog
 #url: "http://maxhallden.com" # the base hostname & protocol for your site
 twitter_username: halldenMax     
 github_username: maxha651 
