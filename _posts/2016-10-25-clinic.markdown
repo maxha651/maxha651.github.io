@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Kliniken"
+date:   2016-01-16 15:01:23 +0100
+categories: posts 
+tags: liu game clinic project
+---
+
+Me and some friends applied to [LiU Game Conference][liuga] with a prototype for a crazy, cooperative... get-shot-at-er(?) game. So it's kind of based off this [reddit thread][reddit-thread] where there are clinics for near-death experiences allowing people to, well, experience near-death.
+
+One might say that the game doesn't take it as serious as in that thread, but it's a really fun game for being in such an early state. Watch the trailer [here][trailer].
+
+And on another note I was going to fix up this site a bit but it ended in just making this post instead. I guess it doesn't make sense to do anything when there's no content, but honestly I just don't like web stuff so it'll probably stay like this for a while. Hoping to update this a bit more often though. :)
+
+[liuga]: http://liuga.se/
+[reddit-thread]: https://www.reddit.com/r/WritingPrompts/comments/4yufvm/wp_in_a_world_where_what_doesnt_kill_you/
+[trailer]: https://www.youtube.com/watch?v=9OoNqFIHKwE

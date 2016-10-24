@@ -12,7 +12,7 @@ lsi: false
 # Site settings
 title: Max Halldén
 description: > # this means to ignore newlines until "baseurl:"
-  Personal page of Max Halldén, software developer and Linux nerd.
+  Personal page of Max Halldén
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://maxhallden.com" # the base hostname & protocol for your site
 twitter_username: halldenMax     
