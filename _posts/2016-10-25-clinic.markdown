@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kliniken"
-date:   2016-01-16 15:01:23 +0100
+date:   2016-10-25
 categories: posts 
 tags: liu game clinic project
 ---
